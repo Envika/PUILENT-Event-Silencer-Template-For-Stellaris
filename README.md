@@ -1,4 +1,4 @@
-# PUILENT — Event Silencer Template for Stellaris
+# PUILENT — Event Silencer Tool for Stellaris
 
 ![PUILENT Banner](PUILENT_BANNER.png)
 *Silence the noise. Take control of your Stellaris events.*
@@ -7,7 +7,7 @@
 
 ## What is PUILENT?
 
-**PUILENT** is a lightweight, easy-to-use template mod for Stellaris that lets you **silence any event** in the game by overriding it.  
+**PUILENT** is a lightweight, easy-to-use Tool mod for Stellaris that lets you **silence any event** in the game by overriding it.  
 Whether it’s bugged, empty, annoying, or just not your style — PUILENT helps you keep your galaxy peaceful.
 
 ---
@@ -15,7 +15,7 @@ Whether it’s bugged, empty, annoying, or just not your style — PUILENT helps
 ## Features
 
 - Silences specific Stellaris events by overriding them  
-- Simple, clean, and modular template for quick customization  
+- Simple, clean, and modular Tool for quick customization  
 - Great for debugging broken or spammy mods  
 - Minimal setup required — all event management is done via the GUI app  
 - The GUI automatically handles folder structure and load order placement  
