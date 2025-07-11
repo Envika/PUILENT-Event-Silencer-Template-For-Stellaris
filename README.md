@@ -34,17 +34,6 @@ Whether it’s bugged, empty, annoying, or just not your style — PUILENT helps
 
 ---
 
-## Mod Structure
-
-Puilent/
-├── common/
-│ └── events/
-│ └── 000_puilent_silencer.txt
-├── descriptor.mod
-└── thumbnail.png
-
----
-
 ## License and Distribution
 
 This project is fully open source and free to use, modify, and distribute.  
