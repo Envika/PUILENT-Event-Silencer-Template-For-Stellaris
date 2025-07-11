@@ -1,53 +1,54 @@
-# PUILENT — Event Silencer Tool for Stellaris
+# PUILENT — The Ultimate Event Silencer Tool for Stellaris
 
-![PUILENT Banner](PUILENT_BANNER.png)
-*Silence the noise. Take control of your Stellaris events.*
+![PUILENT Banner](PUILENT_BANNER.png)  
+*Silence the noise. Command your galaxy.*
 
 ---
 
 ## What is PUILENT?
 
-**PUILENT** is a lightweight, easy-to-use Tool mod for Stellaris that lets you **silence any event** in the game by overriding it.  
-Whether it’s bugged, empty, annoying, or just not your style — PUILENT helps you keep your galaxy peaceful.
+**PUILENT** is a lightweight, plug-and-play **Tool** for Stellaris that **silences any annoying event** with zero hassle.  
+No more digging through folders, no more manual file edits—just smooth, peaceful galactic domination.
 
 ---
 
 ## Features
 
-- Silences specific Stellaris events by overriding them  
-- Simple, clean, and modular Tool for quick customization  
-- Great for debugging broken or spammy mods  
-- Minimal setup required — all event management is done via the GUI app  
-- The GUI automatically handles folder structure and load order placement  
-- Designed for modders and players alike  
+- Instantly silence any Stellaris event by overriding it—no coding required  
+- Modular and user-friendly GUI for effortless event management  
+- Automatically handles folder structure and load order placement like a pro  
+- Perfect for modders, players, and anyone sick of spammy pop-ups  
+- Debug broken mods or keep your game neat and quiet  
+- Minimal setup—launch, click, silence. Like flipping a switch on a Soviet-era generator
 
 ---
 
 ## How to Use
 
-1. Launch Stellaris and open the console by pressing the `~` (tilde) key.  
-2. Enable **Debug Tooltip** mode by clicking the option in the console’s quick actions or by typing `debugtooltip`.  
-3. Hover your mouse over the **OK button** of the event you want to silence to see its event ID.  
-4. Open the **PUILENT GUI application**.  
-5. Use the GUI to add, edit, or remove event IDs.  
-6. The GUI will automatically create the necessary folder structure if missing, check for other mods, and place PUILENT at the bottom of your load order — no manual work needed.
+1. Start Stellaris and open the console (`~` key)  
+2. Enable **Debug Tooltip** mode by typing `debugtooltip` or using the console’s quick actions  
+3. Hover over the **OK button** of the event to get its event ID  
+4. Open **PUILENT GUI Tool**  
+5. Add, edit, or remove event IDs with a few clicks  
+6. PUILENT auto-creates folders, checks for conflicting mods, and sets load order so you don’t have to — like a well-trained comrade
 
 ---
 
 ## License and Distribution
 
-This project is fully open source and free to use, modify, and distribute.  
-Feel free to fork, improve, and share — but please keep the credit to **Envika Chan**.
+Open source and free as the Siberian wind. Use it, modify it, share it—just keep my name on it, comrade.  
+PUILENT belongs to the people.
 
 ---
 
 ## Credits
 
 - Mod Author: **Envika Chan**  
+- Inspired by frustration with noisy Stellaris events and too much manual work
 
 ---
 
 ## Contact
 
-Feel free to reach out or submit issues and pull requests here on GitHub.  
-Happy modding! 🗡️🕸️🔥
+Bug reports, ideas: [GitHub Issues](https://github.com/Envika/PUILENT-Event-Silencer-Template-For-Stellaris/issues)  
+Happy modding, and may your galaxy stay silent as a KGB archive.
