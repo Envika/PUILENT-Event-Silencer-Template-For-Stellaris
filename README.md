@@ -1,6 +1,6 @@
 # PUILENT — Event Silencer Template for Stellaris
 
-![PUILENT Banner](thumbnail.png)  
+![PUILENT Banner](Puilent thumbnail.png)
 *Silence the noise. Take control of your Stellaris events.*
 
 ---
